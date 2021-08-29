@@ -1,0 +1,12 @@
+1.查看分支
+git branch
+2.创建切换分支 
+git checkout -b branch-name
+
+3.注意事项 要先进入 master 创建合并分支
+
+4.合并分支
+
+git merge register
+
+
